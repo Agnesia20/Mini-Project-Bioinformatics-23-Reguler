@@ -82,10 +82,13 @@ These findings indicate genetic diversity among Gammacoronavirus isolates and su
 
 ---
 
-## Phylogenetic Tree
+## File
 
 - [Jurnal Acuan](Jurnal%20Acuan%20Kelompok%20Reguler%2023.pdf)
-- [Hasil Alignment](hasil%20aligment%20minpro%20fiks.png)
+- [Phylogeny Tree](hasil%20aligment%20minpro%20fiks.png)
+- [Hasil Alignment](Hasil%20Alignment)
+- [Makalah Reguler 23](Makalah%20Mini%20Project%20Kelompok%20Reguler%2023.pdf)
+- [PPT Reguler 23](PPT%20selasa%2023%20reguler%20Mini%20Projek%20Bioinformatika.pdf)
 
 ---
 
