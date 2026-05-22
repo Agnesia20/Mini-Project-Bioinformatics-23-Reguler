@@ -89,6 +89,7 @@ These findings indicate genetic diversity among Gammacoronavirus isolates and su
 - [Hasil Alignment](Hasil%20Alignment)
 - [Makalah Reguler 23](Makalah%20Mini%20Project%20Kelompok%20Reguler%2023.pdf)
 - [PPT Reguler 23](PPT%20Mini%20Projek%20Bioinformatika.pdf)
+- 
 
 ---
 
